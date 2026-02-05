@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <h1>Snake Game</h1>
+        <div class="score-container">
+            <span>Score: <span id="score">0</span></span>
+            <span>Meilleur Score: <span id="high-score">0</span></span>
+        </div>
+        <canvas id="gameCanvas" width="400" height="400"></canvas>
+        <div class="controls">
+            <button id="startBtn">Commencer</button>
+            <button id="pauseBtn">Pause</button>
+            <button id="resetBtn">Réinitialiser</button>
+        </div>
+        <div class="instructions">
+            <p>Utilisez les flèches directionnelles pour contrôler le serpent</p>
+            <p>↑ ↓ ← → ou Z Q S D</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
