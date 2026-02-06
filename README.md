@@ -4,7 +4,7 @@ Un jeu Snake classique développé en HTML5, CSS3 et JavaScript pur.
 
 ## 🎮 Jouer au jeu
 
-Le jeu est disponible en ligne ici : [Lien GitHub Pages sera ajouté après déploiement]
+Le jeu est disponible en ligne ici : [ https://qiveravera.github.io/-snake-Game/ ]
 
 ## 🎯 Fonctionnalités
 
@@ -72,3 +72,4 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 ---
 
 Développé avec ❤️ pour le plaisir de jouer !
+
